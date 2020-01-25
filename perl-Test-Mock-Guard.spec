@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	Mock-Guard
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::Mock::Guard - Simple mock test library using RAII
 Name:		perl-Test-Mock-Guard
 Version:	0.10
