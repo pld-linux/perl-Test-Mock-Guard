@@ -7,7 +7,7 @@
 Summary:	Test::Mock::Guard - Simple mock test library using RAII
 Name:		perl-Test-Mock-Guard
 Version:	0.10
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
